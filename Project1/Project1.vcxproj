@@ -110,10 +110,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="yay.h" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="SuperSum.cpp" />
   </ItemGroup>
